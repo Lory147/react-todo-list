@@ -2,6 +2,10 @@
 
 Simple Todo List made with React using react-hooks. It allows the user to create a new Todo, edit it, check it when completed and lastly delete it. 
 
+# Usage
+
+Try it out here: https://lory147.github.io/react-todo-list
+
 
 # Getting Started with Create React App
 
